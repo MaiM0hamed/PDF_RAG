@@ -159,4 +159,4 @@ PDF_RAG/
 
 ## License
 
-MIT License © 2026 Mai Mohamed
+MIT License © 2026 
